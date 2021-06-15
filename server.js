@@ -28,20 +28,3 @@ server.listen(PORT, () =>
 );
 
 
-// {
-//     getPoems {
-//       id
-//       title
-//       description
-//     }
-//   }
-  
-//   mutation {
-//     createPoem(input:{title:"poem 2",description:"poem 2 description", author:{userName:"emma",email:"test#test.com",address:"germany"}}){
-//       id,
-//       description,
-//       author{
-//       userName
-//     }
-//     }
-//   }
